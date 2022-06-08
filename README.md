@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @archangel4031
+- 👋 Hi, I’m Malik Sahab aka @archangel4031
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning UE4 Gameplay Ability System
+- 🌱 I’m currently learning UE4/UE5 Gameplay Ability System
 - Trying to CODE a better world 😝
 - C++ is the scariest PYTHON I've encountered till date 🐍
 
