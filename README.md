@@ -1,13 +1,18 @@
+
 # 👋 Hi, I’m Malik Sahab aka @archangel4031
 
-### A little bit about me
+## A little bit about Me 😊
 
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning UE4/UE5 Gameplay Ability System
-- 🌱 I’m also learning Artificial Intelligence and Deep Learning TEchnology
-- 🌱 I’m also learning Blockchain Technology
+- I’m interested in Game Development 🎮, Artificial Intelligence 🤖 and Blockchain 🪙 
 - Trying to CODE a better world 😝
 - C++ is the scariest PYTHON I've encountered till date 🐍
+
+
+## Experience / Working Area
+- 🌱 I’m working on UE4/UE5 Gameplay Ability System
+- 🌱 I’m working on Artificial Intelligence and Deep Learning
+- 🌱 I’m working on Blockchain Technology
+- 🌱 I’m working on Next.JS with Tailwind CSS
 
 
 ## Contribution Graph
